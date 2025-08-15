@@ -125,7 +125,7 @@ a {
 
 .site-footer {
   background: #333333;
-  padding: 40px 0; /* Adjust height: increase for taller, decrease for shorter */
+  padding: 10px 0; /* Adjust height: increase for taller, decrease for shorter */
   font-size: 16px; /* Adjust text size */
 }
 
